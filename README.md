@@ -1,5 +1,13 @@
 <h1>Hi 👋, I'm Juan Sebastian Alvarez</h1>
-<p>A passionate and constantly evolving Systems Engineering student, driven by a love for learning and innovation</p>
+<p>👋 Hi there! I'm a Systems Engineering student with a strong passion for technology, data analysis, and creative problem-solving. I enjoy exploring how software can improve real-world processes—whether it's through clean and efficient code, smart decision-making tools, or innovative digital solutions.
+
+🚀 I'm especially interested in entrepreneurship, digital transformation, and building tools that create opportunities for others. My projects often blend technical precision with strategic thinking, reflecting both my analytical mindset and my drive to make an impact.
+
+💡 I value good programming practices, clear code structure, and thoughtful design. I’ve worked on everything from 3D modeling systems and statistical reports in R to CRM strategies for small businesses and student-focused platforms like IMPULSE.
+
+📚 Beyond coding, I'm active in university initiatives that strengthen leadership and collaboration skills. I learn best by doing, and I’m always looking for challenges that let me grow as a developer and as a changemaker.
+
+Let's connect and build something meaningful!</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
