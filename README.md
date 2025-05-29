@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Juan Sebastian Alvarez</h1>
 <p>👋 Hi there! I'm a Systems Engineering student with a strong passion for technology, data analysis, and creative problem-solving. I enjoy exploring how software can improve real-world processes—whether it's through clean and efficient code, smart decision-making tools, or innovative digital solutions.
 
-🚀 I'm especially interested in entrepreneurship, digital transformation, and building tools that create opportunities for others. My projects often blend technical precision with strategic thinking, reflecting both my analytical mindset and my drive to make an impact.
+🚀 I'm especially interested in entrepreneurship, digital transformation, and building tools that create opportunities for others. 
 
-💡 I value good programming practices, clear code structure, and thoughtful design. I’ve worked on everything from 3D modeling systems and statistical reports in R to CRM strategies for small businesses and student-focused platforms like IMPULSE.
+💡 I value good programming practices, clear code structure, and thoughtful design.
 
 📚 Beyond coding, I'm active in university initiatives that strengthen leadership and collaboration skills. I learn best by doing, and I’m always looking for challenges that let me grow as a developer and as a changemaker.
 
